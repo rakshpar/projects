@@ -16,3 +16,10 @@ applied LSTM with drop out rate of 0.2 and 3 layers
 
 predicted avarege weekly sales offset by 1700 with 5 fold cross-validtion
 
+<b> Bank TD Offers</b>
+
+We can improve the campaign success by showing the campaigns to the clients who will subscribe a term deposit. 
+since data is imbalanced, undersampling was carried out before building models. After
+preprocessing the data, we build logistic regression and measured AUC score and lift chart.
+
+We get the AUC score of 74 percent.
