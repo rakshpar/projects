@@ -16,7 +16,7 @@ applied LSTM with drop out rate of 0.2 and 3 layers
 
 predicted avarege weekly sales offset by 1700 with 5 fold cross-validtion
 
-<b> Bank TD Offers</b>
+<b> <a href="https://github.com/rakshpar/projects/blob/master/banktdoffer/banktdoffering.ipynb">Bank TD Offers</a></b>
 
 We can improve the campaign success by showing the campaigns to the clients who will subscribe a term deposit. 
 since data is imbalanced, undersampling was carried out before building models. After
